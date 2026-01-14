@@ -64,8 +64,3 @@ Feel free to fork this repository and contribute! Pull requests are welcome.
 
 ## Live Demo
 Visit [ShopEase](https://shopease.pythonanywhere.com)
-
-## Developer
-- Name: Srinivas Kanchi
-- GitHub: https://github.com/srinivaskanchi-dev
-- Email: srinivaskanchi752@gmail.com
